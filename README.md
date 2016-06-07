@@ -100,8 +100,9 @@ sudo apt-get install vim-gtk               # Ubuntu
 * [powerline](https://github.com/Lokaltog/vim-powerline) - The ultimate vim statusline utility.
 * [fugitive](https://github.com/tpope/vim-fugitive/) - a Git wrapper so awesome, it should be illegal.
 * [syntastic](https://github.com/scrooloose/syntastic) - Syntax checking hacks for vim.
-* [jedi-vim](https://githu.com/davidhalter/jedi-vim) - Using the jedi autocompletion library for VIM
-### Dependencie
+* [jedi-vim](https://githu.com/davidhalter/jedi-vim) - Using the jedi autocompletion library for VIM.
+
+##Dependencie
 
 ```bash
 yaourt -S ack ctags                  # ArchLinux
